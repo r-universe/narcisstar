@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "dendrometry"]
 	path = dendrometry
-	url = https://github.com/cran/dendrometry
+	url = https://github.com/narcisstar/dendrometry
